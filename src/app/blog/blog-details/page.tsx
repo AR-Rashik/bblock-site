@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 
 const SingleBlogPage = async () => {
   return (
-    <Container className="">
+    <Container className="mt-4">
       <section className="pb-20 pt-32 lg:pb-24 lg:pt-44 xl:pb-28 xl:pt-52">
         <div className="mx-auto w-full">
           <div className="flex flex-col-reverse gap-7 lg:flex-row xl:gap-12">
