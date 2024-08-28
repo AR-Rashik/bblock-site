@@ -55,10 +55,10 @@ const PrivacyPolicy = () => {
                 User: any adult individual, or legal entity, using the services
                 offered on the{" "}
                 <a
-                  href="https://dev.bblock.fr/"
+                  href="https://bblock.fr/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="font-semibold text-sky-500 hover:underline dark:text-sky-600"
+                  className="font-semibold text-sky-500 underline-offset-2 hover:underline  dark:text-sky-600"
                 >
                   bblock.fr{" "}
                 </a>{" "}
@@ -113,10 +113,10 @@ const PrivacyPolicy = () => {
             </h3>
             The{" "}
             <a
-              href="https://dev.bblock.fr/"
+              href="https://bblock.fr/"
               target="_blank"
               rel="noopener noreferrer"
-              className="font-semibold text-sky-500 hover:underline dark:text-sky-600"
+              className="font-semibold text-sky-500 underline-offset-2 hover:underline  dark:text-sky-600"
             >
               bblock.fr{" "}
             </a>{" "}
@@ -125,7 +125,7 @@ const PrivacyPolicy = () => {
               href="https://www.digitalocean.com/"
               target="_blank"
               rel="noopener noreferrer"
-              className="font-semibold text-sky-500 hover:underline dark:text-sky-600"
+              className="font-semibold text-sky-500 underline-offset-2 hover:underline  dark:text-sky-600"
             >
               DigitalOcean{" "}
             </a>{" "}
@@ -136,7 +136,7 @@ const PrivacyPolicy = () => {
             Phone:{" "}
             <a
               href="tel:+1 347-903-7918"
-              className="font-semibold text-sky-500 hover:underline dark:text-sky-600"
+              className="font-semibold text-sky-500 underline-offset-2 hover:underline  dark:text-sky-600"
             >
               +1 347-903-7918
             </a>{" "}
@@ -169,7 +169,7 @@ const PrivacyPolicy = () => {
             to the following address: &nbsp;
             <a
               href="mailto:bblock1971@gmail.com."
-              className="font-semibold text-sky-500 hover:underline dark:text-sky-600"
+              className="font-semibold text-sky-500 underline-offset-2 hover:underline  dark:text-sky-600"
             >
               bblock1971@gmail.com
             </a>
@@ -232,7 +232,7 @@ const PrivacyPolicy = () => {
               href="https://analytics.google.com/analytics/web/"
               target="_blank"
               rel="noopener noreferrer"
-              className="font-semibold text-sky-500 hover:underline dark:text-sky-600"
+              className="font-semibold text-sky-500 underline-offset-2 hover:underline  dark:text-sky-600"
             >
               Google Analytics{" "}
             </a>{" "}
@@ -251,7 +251,7 @@ const PrivacyPolicy = () => {
               href="https://tools.google.com/dlpage/gaoptout?hl=fr"
               target="_blank"
               rel="noopener noreferrer"
-              className="font-semibold text-sky-500 hover:underline dark:text-sky-600"
+              className="font-semibold text-sky-500 underline-offset-2 hover:underline  dark:text-sky-600"
             >
               https://tools.google.com/dlpage/gaoptout?hl=fr
             </a>
@@ -262,7 +262,7 @@ const PrivacyPolicy = () => {
               href="https://support.google.com/analytics/answer/6004245?hl=fr"
               target="_blank"
               rel="noopener noreferrer"
-              className="font-semibold text-sky-500 hover:underline dark:text-sky-600"
+              className="font-semibold text-sky-500 underline-offset-2 hover:underline  dark:text-sky-600"
             >
               https://support.google.com/analytics/answer/6004245?hl=fr
             </a>{" "}
@@ -286,7 +286,7 @@ const PrivacyPolicy = () => {
               href="https://www.google.com/intl/fr/policies/technologies/ads/"
               target="_blank"
               rel="noopener noreferrer"
-              className="font-semibold text-sky-500 hover:underline dark:text-sky-600"
+              className="font-semibold text-sky-500 underline-offset-2 hover:underline  dark:text-sky-600"
             >
               https://www.google.com/intl/fr/policies/technologies/ads/
             </a>
@@ -300,14 +300,14 @@ const PrivacyPolicy = () => {
             how we handle your personal information, please contact us at &nbsp;
             <a
               href="mailto:bblock1971@gmail.com."
-              className="font-semibold text-sky-500 hover:underline dark:text-sky-600"
+              className="font-semibold text-sky-500 underline-offset-2 hover:underline  dark:text-sky-600"
             >
               bblock1971@gmail.com
             </a>
             &nbsp; or &nbsp;
             <a
               href="tel:+33 7 58 20 44 30"
-              className="font-semibold text-sky-500 hover:underline dark:text-sky-600"
+              className="font-semibold text-sky-500 underline-offset-2 hover:underline  dark:text-sky-600"
             >
               +33 7 58 20 44 30
             </a>{" "}
