@@ -18,7 +18,7 @@ const SingleBlogPage = async () => {
         <div className="mx-auto w-full">
           <div className="flex flex-col-reverse gap-7 lg:flex-row xl:gap-12">
             <div className="md:w-1/2 lg:w-[32%]">
-              <div className="animate_top mb-10 rounded-md border border-border bg-card p-3.5 shadow-lg">
+              <div className="animate_top mb-10 rounded-md border border-border bg-card p-3.5 shadow-md">
                 <form
                   action="https://formbold.com/s/unique_form_id"
                   method="POST"
